@@ -6,7 +6,7 @@
 	 * @link http://www.pisyek.com
 	 */
 
-class Home extends CI_Controller {
+class Auth extends CI_Controller {
 
 	function __construct() {
 		parent::__construct();
